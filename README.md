@@ -5,4 +5,4 @@ The package circle has two classes <br />
 2.Property
 
 # Arthme.java
-This is a client-defined-class which allows 
+This is a client-defined-class which allows the radius input ffrom the user
